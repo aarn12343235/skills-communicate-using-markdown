@@ -9,3 +9,7 @@
 Demonstrating header on this edit
 
 ![Image of a bee](https://cdn.shopify.com/s/files/1/1132/2638/files/iStock_26288140_LARGE_1024x1024.jpg?3223957927565558132)
+
+```javascript
+var myVar = "Hello World!";
+```
