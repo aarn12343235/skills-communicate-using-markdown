@@ -1,2 +1,0 @@
-- [x] Open Github
-- [ ] Reviw pull requests
